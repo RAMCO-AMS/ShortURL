@@ -12,7 +12,7 @@ MAR_short_url,
 MAR_checkinlink
 
 Meetings:
-MAR_short_url
+MAR_short_url,
 MAR_checkinlink
 
 
